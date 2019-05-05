@@ -6,6 +6,6 @@ This project is an example of how Spring Data JPA offers the ability to extend a
 
 The example query isn't a good use case of when to implement this behavior, as it Spring JPA is easily capable of handling a LIKE query, but the point isn't to demonstrate a meaningful use case, but how to implement the pattern. 
 
-For more complete check out the article: 
+For more complete check out the article: [JPA or SQL in a Spring Boot Application? Why Not Both?](http://billykorando.com/2019/05/04/jpa-or-sql-in-a-spring-boot-application-why-not-both)
 
 As well as the Spring Data JPA user docs: [https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.single-repository-behavior](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.single-repository-behavior)
